@@ -39,13 +39,13 @@ PriceRadar is a product price comparison system designed to help users compare p
 
 ## **Features Implemented**
 
+- Add Products
 - Product information management.
 - Seller offer management.
 - Product price comparison.
 - PriceRadar service for handling comparison operations.
 - Display of product and seller information.
 
-**Update this list to match the features actually implemented in your code.**
 
 ---
 
